@@ -16,6 +16,7 @@ Previo a iniciar el desarrollo de software para web usando el framework de NodeJ
 |4.|Declaración de Variables (continuación)|6|Finalizada|
 |5.|Introducción a Objetos|19|Finalizada|
 |6.|Arreglos(Declaraciones Multidimensiponales métodos de array)|18|Activa|
+|7.|Sentencias de control y ciclos|17|Activa|
 
 
 ### Autor
